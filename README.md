@@ -1,7 +1,3 @@
-Here’s an improved version of your README with **shields.io** badges for a clean and professional look:
-
----
-
 # Monetize Your Telegram Bot with Telegram Stars 🌟
 
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
