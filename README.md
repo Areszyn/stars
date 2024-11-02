@@ -23,7 +23,7 @@ This project demonstrates how to integrate **Telegram Stars** — Telegram's new
 
 1. **Clone the Repo**
    ```shell
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/eiirn/TelegramStarsMonetization.git
    cd yourrepository
    ```
 
