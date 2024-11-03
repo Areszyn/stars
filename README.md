@@ -3,9 +3,9 @@
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram&logoColor=white)](https://core.telegram.org/bots)
 [![License](https://img.shields.io/github/license/eiirn/TelegramStarsMonetization)](./LICENSE)
-[![Watch the Video](https://img.shields.io/badge/Watch%20Video-Youtube-red?logo=youtube)](https://youtu.be/jKpC0Jnzymk)
+[![Watch the Video](https://img.shields.io/badge/Watch%20Video-Youtube-red?logo=youtube)](https://youtu.be/B6gJRJxccDw)
 
-[Watch the Video Tutorial](https://youtu.be/jKpC0Jnzymk) 🎥
+[Watch the Video Tutorial](https://www.youtube.com/watch?v=B6gJRJxccDw) 🎥
 
 This project demonstrates how to integrate **Telegram Stars** — Telegram's new in-app currency — to monetize your bot by accepting payments for digital goods and services. Built with **Dart** and the **Televerse** library, this codebase provides a step-by-step guide to implementing in-app purchases, interacting with Telegram’s Bot API, and processing Stars for a seamless user experience. Perfect for Telegram bot developers and Dart enthusiasts!
 
