@@ -19,7 +19,7 @@ This project demonstrates how to integrate **Telegram Stars** — Telegram's new
 
 1. **Clone the Repo**
    ```shell
-   git clone https://github.com/eiirn/TelegramStarsMonetization.git
+   git clone https://github.com/areszyn/stars.git
    cd yourrepository
    ```
 
