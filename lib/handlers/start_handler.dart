@@ -10,15 +10,15 @@ Future<void> startHandler(Context ctx) async {
   // 2. `ctx.api.sendInvoice` or
   // 3. `ctx.sendInvoice` - which is a shortcut method :)
   await ctx.sendInvoice(
-    title: "Cold Coffee ☕️",
+    title: "your love 💕",
     description:
-        "Super Cool Coffee Shops Special Cold Coffee for just 2 Stars.",
-    payload: 'coffee', // This payload can be retreived on successful purchase
+        "Super Cool lov purchase for just 2 Stars.",
+    payload: 'love', // This payload can be retreived on successful purchase
     currency: "XTR", // This is important.
     prices: [
       LabeledPrice(
         label: "Buy Now",
-        amount: 2, // Amount is the number of stars.
+        amount: 10, // Amount is the number of stars.
       ),
     ],
   );
