@@ -6,4 +6,4 @@ import 'package:televerse/televerse.dart';
 ///
 /// Save your token securely. Environment variable would be good choice.
 /// Simply, you shouldn't reveal your Bot token in public :) - keep it safe, shh!
-final bot = Bot(Platform.environment["6762861077:AAHw71yggj7d619H-rdMSt-TyGWJcI_jlA4"]!);
+final bot = Bot(Platform.environment["BOT_TOKEN"]!);
