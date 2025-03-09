@@ -1,7 +1,7 @@
 name: coolcoffeebot
 description: Monetize your Telegram bot with Telegram Stars using Dart and Televerse
 version: 1.0.0
-repository: https://github.com/eiirn/TelegramStarsMonetization
+repository: https://github.com/areszyn/stars
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
