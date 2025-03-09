@@ -11,6 +11,6 @@ Future<void> handleSuccessfulPayment(Context ctx) async {
   print(successfulPayment.invoicePayload);
 
   await ctx.reply(
-    "Thank you for your purchase. Your coffee will be delivered soon.",
+    "Thank you for your purchase. Your 😘 will be delivered soon.",
   );
 }
